@@ -1,0 +1,1 @@
+The project involves extracting blood vessels from retinal images using the UNET architecture. This extraction process helps in detecting diabetic retinopathy by analyzing the blood vessels in the retina.
